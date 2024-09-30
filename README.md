@@ -14,3 +14,8 @@ If you'd like to collaborate, feel free to open a pull request or report issues.
 Thank you for visiting! If you have any questions or suggestions, don’t hesitate to open an issue.
 
 Enjoy exploring!
+
+
+Preview>
+
+https://github.com/danijunior11/WindowsDefenderPayload/blob/main/Screenshot_2024-09-29_12_34_04(1).png?raw=true
