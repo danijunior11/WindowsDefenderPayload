@@ -16,6 +16,6 @@ Thank you for visiting! If you have any questions or suggestions, don’t hesita
 Enjoy exploring!
 
 
-Preview>
+Preview Image:
 
 https://github.com/danijunior11/WindowsDefenderPayload/blob/main/Screenshot_2024-09-29_12_34_04(1).png?raw=true
